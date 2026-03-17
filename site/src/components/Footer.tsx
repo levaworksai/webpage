@@ -38,7 +38,7 @@ export function Footer() {
         </div>
 
         <p className="text-muted text-sm">
-          &copy; {new Date().getFullYear()} LevaWorks. All rights reserved.
+          &copy; {new Date().getFullYear()} levaworksAI, Inc. All rights reserved.
         </p>
       </div>
     </footer>
